@@ -3,9 +3,9 @@ contact_links:
   - name: Help setting up Mizan
     url: https://discord.gg/fRbk43tKcV
     about: Ask in the Mizan Discord, or email contact@mizan.ac.
-  - name: A player flagged wrongly
+  - name: A question about a case
     url: https://mizan.ac/contact
-    about: Open the case on your dashboard or email us. Please don't post player details in a public issue.
+    about: Ask on your dashboard or by email. Please don't post player details in a public issue.
   - name: Disputing a ban
     url: https://mizan.ac/disputes
     about: How to dispute a ban on a public ban list.

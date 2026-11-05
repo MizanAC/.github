@@ -1,14 +1,35 @@
-Mizan is an anti-cheat for game servers. It judges how players aim, move and time their commands on the server, so
-players install nothing and there is nothing on their computer for a cheat to hide from or switch off.
+<div align="center">
 
-It runs on Garry's Mod today, in early access. Rust, Counter-Strike 2, FiveM, Counter-Strike: Global Offensive and
-Minecraft are planned.
+<a href="https://mizan.ac">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/mizan-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/mizan-light.svg">
+    <img alt="Mizan" src="assets/mizan-light.svg" height="56">
+  </picture>
+</a>
 
-- [mizan.ac](https://mizan.ac)
-- [What it detects](https://mizan.ac/anti-cheat)
-- [How it compares with other Garry's Mod anti-cheats](https://mizan.ac/anti-cheat/compare)
-- [Every false flag we've found, and its fix](https://mizan.ac/anti-cheat/false-flags)
-- [Blog](https://mizan.ac/blog)
-- [Discord](https://discord.gg/fRbk43tKcV)
+### Anti-cheat for game servers
 
-Questions go to contact@mizan.ac. Security reports follow [our policy](https://mizan.ac/security).
+Mizan judges how players aim, move and time their commands on the server.<br>
+Players install nothing, and there is nothing on their computer for a cheat to hide from.
+
+[Website](https://mizan.ac) · [Anti-cheat](https://mizan.ac/anti-cheat) · [Comparison](https://mizan.ac/anti-cheat/compare) · [Blog](https://mizan.ac/blog) · [Discord](https://discord.gg/fRbk43tKcV)
+
+</div>
+
+<br>
+
+| Game | Status |
+| :--- | :--- |
+| Garry's Mod | Early access · [MizanAC/gmod-anticheat](https://github.com/MizanAC/gmod-anticheat) |
+| Rust | Planned |
+| Counter-Strike 2 | Planned |
+| FiveM | Planned |
+| Counter-Strike: Global Offensive | Planned |
+| Minecraft | Planned |
+
+<br>
+
+<div align="center">
+<sub>contact@mizan.ac · <a href="https://mizan.ac/security">Security policy</a> · KORDU LTD</sub>
+</div>

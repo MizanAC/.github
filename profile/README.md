@@ -16,18 +16,12 @@ Players install nothing, and there is nothing on their computer for a cheat to h
 
 [Website](https://mizan.ac) &nbsp;·&nbsp; [Anti-cheat](https://mizan.ac/anti-cheat) &nbsp;·&nbsp; [Comparison](https://mizan.ac/anti-cheat/compare) &nbsp;·&nbsp; [Blog](https://mizan.ac/blog) &nbsp;·&nbsp; [Discord](https://discord.gg/fRbk43tKcV)
 
-</div>
-
 <br>
 
-| Game | Status |
-| :--- | :--- |
-| Garry's Mod | Early access · [MizanAC/gmod-anticheat](https://github.com/MizanAC/gmod-anticheat) |
-| Rust | Planned |
-| Counter-Strike 2 | Planned |
-| FiveM | Planned |
-| Counter-Strike: Global Offensive | Planned |
-| Minecraft | Planned |
+**Garry's Mod** &nbsp;·&nbsp; early access &nbsp;·&nbsp; [MizanAC/gmod-anticheat](https://github.com/MizanAC/gmod-anticheat)<br>
+<sub>Planned: Rust, Counter-Strike 2, FiveM, Counter-Strike: Global Offensive and Minecraft</sub>
+
+</div>
 
 <br>
 

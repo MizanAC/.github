@@ -1,0 +1,18 @@
+name: Documentation problem
+description: Something in this repository is wrong, out of date or unclear.
+labels: [documentation]
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: The file and section, or a link to the line.
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong
+      description: What it says, and what it should say.
+    validations:
+      required: true
